@@ -1,1 +1,1 @@
-# This is a repository of medical image analyze
+# This is a repository for medical image analyze
